@@ -12,7 +12,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, uma versão simp
 
 ## Níveis do Projeto
 
-- **Nível Novato**  
+- **Nível Novato (Implementado)**  
   Criação de um tabuleiro 10x10 utilizando matrizes, com posicionamento de dois navios de tamanho 3: um na horizontal e outro na vertical. Exibição no console com visualização clara do tabuleiro.
 
 - **Nível Aventureiro**  
