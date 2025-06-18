@@ -18,7 +18,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, uma versão simp
 - **Nível Aventureiro (Implementado)**  
   Posicionamento de quatro navios no total: dois na horizontal/vertical e dois na diagonal. Garantia de que não haja sobreposição e que todos estejam dentro dos limites do tabuleiro.
 
-- **Nível Mestre**  
+- **Nível Mestre (Implementado)**  
   Implementação de habilidades especiais com áreas de efeito: Cone, Cruz e Octaedro. Sobreposição dinâmica das áreas de habilidade no tabuleiro com visualização diferenciada (água, navio, área afetada).
 
 ---
